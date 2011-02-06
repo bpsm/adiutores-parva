@@ -10,4 +10,8 @@ refugee from Common Lisp (`let1`) and a more flexible alternative to
 
 [1]: https://github.com/bpsm/adiutores-parva/blob/master/src/main/clojure/bpsmithmannschott/adiutores/parva.clj
 
+This code is licensed under the [Eclipse Public License 1.0][2].
+
+[2]: http://opensource.org/licenses/eclipse-1.0.php
+
 
